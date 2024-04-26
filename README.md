@@ -11,6 +11,9 @@ Step-by-step guide on how to install and set up your project.
 
    https://home-food-restaurant.netlify.app/
 
+  ![Screenshot 2024-04-25 205253](https://github.com/vishavk1992/restaurant-HTML-CSS/assets/148455293/104bbbd7-7d8a-4bb8-b8da-ac583c66a9ab)
+
    
+
 
    
